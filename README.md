@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools-OS⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,ansible,linux,java,python,flask,html,css,github&perline=3" />
+    <img src="https://skillicons.dev/icons?i=docker,ansible,linux,java,python,flask,html,css,github" />
     <br>
 </div>
 
