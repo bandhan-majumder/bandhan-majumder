@@ -4,7 +4,6 @@
     <img src="http://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&duration=5002&pause=1000&color=A9F865CA&background=C1FFE000&center=true&vCenter=true&random=false&width=436&lines=Hey+everyone+%F0%9F%91%8B+!;I+am+Bandhan+Majumder!">
 </h1>
 
-
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 <br/>
@@ -27,6 +26,9 @@
   </a>
   <a href="https://www.linkedin.com/in/bandhan-majumder-5a10a1248?originalSubdomain=in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://www.twitter.com/MEbandhan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000b12?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
   </a>
 <!-- <a href="https://bandhan-majumder.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
@@ -52,3 +54,10 @@
   
   <br/><br/><br/>
 </div>
+<br>
+
+<div align="center">
+    <a href="https://buymeacoffee.com/bandhan.majumder" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Mouse" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</div>
+
+
