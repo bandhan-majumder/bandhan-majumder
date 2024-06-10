@@ -36,18 +36,7 @@
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
   </div>
-
-  <div>
-    <h1>💻 Tech Stack:</h1>
-    <div>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-      <img src="https://img.shields.io/badge/Terraform-%2300C4CC.svg?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform">
-    </div>
-  </div>
-
+  
   <div>
     <h1>📊 GitHub Stats:</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
