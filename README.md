@@ -7,7 +7,7 @@
     <img src="http://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&duration=5002&pause=1000&color=A9F865CA&background=C1FFE000&center=true&vCenter=true&random=false&width=436&lines=Hey+everyone+%F0%9F%91%8B+!;I+am+Bandhan+Majumder!">
   </h1>
 
-  <h3>A passionate developer from India 🇮🇳</h3>
+  <h3>From India 🇮🇳</h3>
 
   <br>
 
