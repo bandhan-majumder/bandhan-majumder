@@ -57,6 +57,9 @@
 
   <div>
     <h2>🌐 Socials:</h2>
+    <a href="https://bandhanmajumder.com" target="_blank">
+      <img src="https://img.shields.io/badge/portfolio-brown" alt="Portfolio Site">
+    </a>
     <a href="https://linkedin.com/in/bandhan-majumder-5a10a1248" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
