@@ -15,7 +15,7 @@
   -->
     
   <div>
-    <h2>🐍 My Contributions 🐍</h2>
+    <h2> Contributions </h2>
     <img src="https://github.com/bandhan-majumder/bandhan-majumder/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-svg">
   </div>
 
