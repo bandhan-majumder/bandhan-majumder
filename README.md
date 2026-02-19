@@ -13,11 +13,13 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ow6w2lsgjly7zoz4qk6wlcyuyu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ow6w2lsgjly7zoz4qk6wlcyuyu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-song">
   </div>
   -->
-    
+
+   <!--
   <div>
     <h2> Contributions </h2>
     <img src="https://github.com/bandhan-majumder/bandhan-majumder/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-svg">
   </div>
+   -->
 
  <!--
   <div>
