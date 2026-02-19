@@ -70,7 +70,7 @@
     <a href="https://x.com/MEbandhan" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white" alt="Twitter">
     </a>
-    <a href="https://discord.gg/vd9h6cvV" target="_blank">
+    <a href="bandhan.majumder" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord">
     </a>
     <a href="mailto:bandhanmajumder16@gmail.com" target="_blank">
