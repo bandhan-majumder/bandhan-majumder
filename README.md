@@ -29,7 +29,7 @@
  -->
 
   <div>
-    <h1>📊 GitHub Stats:</h1> 
+    <h1>GitHub Stats:</h1> 
     <!--
     <img src="https://github-readme-stats.vercel.app/api?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br>
