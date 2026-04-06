@@ -29,7 +29,6 @@
  -->
 
   <div>
-    <h1>GitHub Stats:</h1> 
     <!--
     <img src="https://github-readme-stats.vercel.app/api?username=bandhan-majumder&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <br>
@@ -60,24 +59,15 @@
   -->
 
   <div>
-    <h2>🌐 Socials:</h2>
-    <a href="https://bandhanmajumder.com" target="_blank">
-      <img src="https://img.shields.io/badge/portfolio-brown" alt="Portfolio Site">
-    </a>
-    <a href="https://linkedin.com/in/bandhan-majumder-5a10a1248" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://x.com/MEbandhan" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white" alt="Twitter">
-    </a>
-    <a href="bandhan.majumder" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="mailto:bandhanmajumder16@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://instagram.com/bandhan.majumder" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
+    <br />
+<div style="text-align: left;">
+  <a href="https://bandhanmajumder.com" target="_blank">Portfolio</a> |
+  <a href="https://linkedin.com/in/bandhan-majumder-5a10a1248" target="_blank">LinkedIn</a> |
+  <a href="https://x.com/MEbandhan" target="_blank">X</a> |
+  <a href="bandhan.majumder" target="_blank">Discord</a> |
+  <a href="mailto:bandhanmajumder16@gmail.com" target="_blank">Email</a> |
+  <a href="https://instagram.com/bandhan.majumder" target="_blank">Instagram</a>
+</div>
+</ul>
   </div>
 </div>
