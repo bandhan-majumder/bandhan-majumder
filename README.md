@@ -1,5 +1,5 @@
 <div>
-  A dev, betting on Open Source.
+  A dev.
   <br />
   <br />
   Contact me:
